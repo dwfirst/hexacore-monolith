@@ -45,8 +45,7 @@ carrier PCB, not inside the module.
 
 ### Structure
 
-```
-mermaid
+```mermaid
 graph TD
     HUB(("HUB<br/>Interconnect<br/>L4 Cache<br/>Power Delivery"))
     CPU["CPU<br/>General compute"]
