@@ -62,6 +62,7 @@ graph TD
     HUB --- NPU2
     HUB --- RAM1
     HUB --- RAM2
+```
 Visualization prompt
 Paste this into any AI image or diagram generator (Claude, GPT, Midjourney,
 DALL·E, Stable Diffusion) to render the architecture.
